@@ -1,11 +1,6 @@
 # Source Code Part Time Program Hacktiv8
 ## Intro to Python for Data Science
 ### PYTHON-KS10 KAMPUS MERDEKA
-*Afif A. Iskandar*
-
-- email: <aiskandar@hacktiv8.com>
-- youtube: [NgodingPython](https://youtube.com/NgodingPython)
-- github: [afifai](http://github.com/afifai)
 
 Repositori ini merupakan arsip kode pada kelas PTP Python for Kampus Merdeka Batch 3 (PYTN-KS10).
 
